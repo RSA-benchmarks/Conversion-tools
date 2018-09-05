@@ -1,9 +1,6 @@
 
 # Model data conversion tools
 
-![](logo.png)
-
-
 The aim of this repository is to collect scripts that convert data format, in different languages. 
 
 If you would like to contribute, please make a pull request to add your own script. 
